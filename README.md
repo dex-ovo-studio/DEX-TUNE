@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/studio-banner.svg" alt="D.E.X Studio — Software, design & experience" width="100%">
+<img src="assets/banner.svg" alt="DEX-TUNE — D.E.X Studio" width="100%">
 
 # D.E.X TUNE
 **随身携带的 Windows 调试工作台 · A portable Windows tuning workspace**
