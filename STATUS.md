@@ -1,8 +1,5 @@
 <p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status-board.svg" alt="Tune · 0.8 · 开发中 / In development" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-TUNE"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status-back.svg" alt="返回项目 / Back to overview" width="50%"></a><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status-hub.svg" alt="所有软件 / All software" width="50%"></a></p>
 
-尚未公开发行，发行时间未定；已记录进展不代表完整产品已可公开使用。  
-No public release or announced release date. Recorded progress does not mean the full product is ready for public use.
-
 <details>
 <summary>文字版状态 / Accessible status</summary>
 
