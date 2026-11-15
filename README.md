@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Tune — D.E.X Studio" width="100%">
+<img src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/banner.svg" alt="Tune — D.E.X Studio" width="100%">
 
 # Tune
 **随身携带的 Windows 调试工作台 · A portable Windows tuning workspace**
 
 Windows · USB toolkit · **0.8 内部原型 / Internal prototype**
 
-[开发状态 / Development status](STATUS.md) · [项目目录 / Project directory](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
+[开发状态 / Development status](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md) · [项目目录 / Project directory](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
 </div>
 
@@ -26,8 +26,8 @@ Tune brings hardware information, Windows tuning, game-library inspection and se
 
 **0.8 · 内部原型 / Internal prototype**
 
-目前没有公开安装包，公开发行时间尚未确定。请通过[项目状态](STATUS.md)了解开发进度。  
-No public installer is available, and no public release date is set. Follow the [project status](STATUS.md) for development progress.
+目前没有公开安装包，公开发行时间尚未确定。请通过[项目状态](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md)了解开发进度。  
+No public installer is available, and no public release date is set. Follow the [project status](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md) for development progress.
 
 ## 功能与进展 · Features & progress
 
