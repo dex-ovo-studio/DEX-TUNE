@@ -1,20 +1,20 @@
-# Tune · 开发状态 / Development status
+<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status.svg" alt="Tune · 版本与开发状态 / Status" width="100%"></p>
 
-**阶段 / Stage: 内部原型 / Internal prototype · 0.8**
+[← Tune](https://github.com/dex-ovo-studio/DEX-TUNE) · [所有软件 / All software](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
-| 里程碑 / Milestone | 进度 / Progress |
+**🟠 开发中 · 暂无公开安装包 / In development · No public installer**  
+0.8 · 开发原型 / Development prototype
+
+| 内容 / Area | 状态 / Status |
 | :--- | :--- |
-| 重建 UI 与操作流程 / UI and workflow rebuild | 已完成内部版本 / Completed in the internal build |
-| 本机与 U 盘运行 / Local and USB execution | 历史验收通过 / Passed in the development record |
-| AI 后台上线 / AI service deployment | 未完成 / Incomplete |
-| 自动电压、频率控制 / Automatic voltage and frequency control | 未完成 / Incomplete |
-| 第三方引擎完整内嵌 / Full third-party engine integration | 未完成 / Incomplete |
-| 公开发行包 / Public release package | 尚无 / None |
+| 界面与流程 / Interface & workflows | 已有原型 / Prototype available |
+| 便携运行 / Portable execution | 已有开发验证 / Demonstrated during development |
+| AI 服务 / AI service | 尚未上线 / Not live |
+| 自动电压与频率控制 / Automatic voltage & frequency control | 尚未完成 / Incomplete |
+| 第三方引擎集成 / Engine integration | 尚未完成 / Incomplete |
+| 公开发行 / Public release | 时间未定 / No date announced |
 
-记录日期 / Evidence date: **2026-11-11**  
-整理日期 / Documentation reviewed: **2026-11-15**
+公开发行时间尚未确定。上表仅表示已记录的开发进展，不代表完整功能已可公开使用。  
+No public release date is set. Recorded progress does not mean the full product is ready for public use.
 
-历史记录包括 1053 个文件校验一致、本机及 U 盘端 83 项原生检查、29 个界面回归场景。它们是当时的开发验收结果，不代表所有硬件兼容性或本次重新验证。  
-The historical report records 1,053 matching file checksums, 83 native checks on local and USB runs, and 29 UI regression scenarios. These are historical development results, not universal hardware validation or a fresh test run.
-
-[返回项目 / Overview](README.md)
+<sub>进度记录 / Progress as of 2026-11-11</sub>
