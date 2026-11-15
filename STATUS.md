@@ -1,4 +1,4 @@
-# D.E.X TUNE · 开发状态 / Development status
+# Tune · 开发状态 / Development status
 
 **阶段 / Stage: 内部原型 / Internal prototype · 0.8**
 

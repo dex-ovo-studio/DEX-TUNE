@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="DEX-TUNE — D.E.X Studio" width="100%">
+<img src="assets/banner.svg" alt="Tune — D.E.X Studio" width="100%">
 
-# D.E.X TUNE
+# Tune
 **随身携带的 Windows 调试工作台 · A portable Windows tuning workspace**
 
 Windows · USB toolkit · **0.8 内部原型 / Internal prototype**
@@ -15,9 +15,12 @@ Windows · USB toolkit · **0.8 内部原型 / Internal prototype**
 
 ## 项目介绍 · Overview
 
-D.E.X TUNE 将硬件信息、系统调试、游戏库整理和参数应用流程放到统一界面中。面向新手提供逐题问答，面向进阶用户提供专家分类与待应用清单。
+**Tune 是 D.E.X Studio 旗下的独立软件项目。**  
+**Tune is a software project by D.E.X Studio.**
 
-D.E.X TUNE brings hardware information, Windows tuning, game-library inspection and settings application into one interface. It combines a guided questionnaire with an expert view and a reviewable change queue.
+Tune 将硬件信息、系统调试、游戏库整理和参数应用流程放到统一界面中。面向新手提供逐题问答，面向进阶用户提供专家分类与待应用清单。
+
+Tune brings hardware information, Windows tuning, game-library inspection and settings application into one interface. It combines a guided questionnaire with an expert view and a reviewable change queue.
 
 ## 版本与下载 · Releases & downloads
 
