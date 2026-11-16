@@ -1,25 +1,23 @@
-<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/v2/hero.svg" alt="Tune — 掌控系统，随身而行。 / Windows / U 盘 · 开发中 / In development · 暂无公开下载" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/v2/action-1.svg" alt="查看开发状态 / Progress &amp; availability" width="34.4444%"></a><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/v2/action-2.svg" alt="所有软件 / Software status &amp; downloads" width="31.1111%"></a><a href="https://github.com/dex-ovo-studio"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/v2/action-3.svg" alt="D.E.X Studio / Meet the studio" width="34.4444%"></a><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/v2/content.svg" alt="硬件与系统 · 两种操作方式 · 游戏库整理 · 应用与恢复" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/v2/footer.svg" alt="D.E.X Studio · 所有软件 / All software" width="100%"></a></p>
+# Tune
 
-<details>
-<summary>展开使用说明与链接 / Read details & links</summary>
+**掌控系统，随身而行。**  
+Your system. In tune.
 
-<details>
-<summary>文字版介绍与常用链接 / Accessible overview & links</summary>
+Windows / U 盘 · 开发中 / In development · 0.8 原型
 
-Windows / U 盘 · 开发中 / In development · 暂无公开下载
+[查看开发进展 / Progress](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md) · [所有软件 / Software hub](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
-- **硬件与系统**：集中查看信息与调试选项。 Hardware insights and tuning options.
-- **两种操作方式**：问答引导与专家分类并行。 Guided questions and expert categories.
-- **游戏库整理**：检查重复、失效与待更新记录。 Inspect duplicate or outdated entries.
-- **应用与恢复**：汇总待应用项，保留恢复路径。 Review changes and preserve originals.
+## 产品方向 / Direction
 
-- [查看开发状态 / Progress & availability](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md)
-- [所有软件 / Software status & downloads](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
-- [D.E.X Studio / Meet the studio](https://github.com/dex-ovo-studio)
+Tune 探索可随 U 盘携带的 Windows 调试工作台，集中呈现设备信息与调试选项。  
+Tune explores a portable Windows workspace for hardware information and tuning.
 
-</details>
+目前已有界面与流程原型、便携运行的开发验证。AI 服务尚未上线，自动电压与频率控制及第三方引擎集成尚未完成。  
+Interface and workflow prototypes exist, and portable execution has been demonstrated during development. AI services and several tuning features are not yet complete.
 
-公开发行时间尚未确定；功能完成情况请以[开发状态](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md)为准。  
-No public release date is set. See the development status for completed and pending work.
+## 可用性 / Availability
 
-</details>
+**暂无公开安装包，发行日期未定。** 状态以[开发记录](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md)为准。  
+No public installer or announced release date. See the [progress record](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md).
+
+[问题与建议 / Feedback](https://github.com/dex-ovo-studio/DEX-TUNE/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
