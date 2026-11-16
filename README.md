@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="D.E.X STUDIO · DEX-TUNE" width="960">
+</picture>
+
 # Tune
 
 **掌控系统，随身而行。**  
@@ -21,3 +27,6 @@ Interface and workflow prototypes exist, and portable execution has been demonst
 No public installer or announced release date. See the [progress record](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md).
 
 [问题与建议 / Feedback](https://github.com/dex-ovo-studio/DEX-TUNE/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
+
+
+
