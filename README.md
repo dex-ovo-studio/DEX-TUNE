@@ -11,7 +11,7 @@ Your system. In tune.
 
 Windows / U 盘 · 开发中 / In development · 0.8 原型
 
-[查看开发进展 / Progress](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md) · [所有软件 / Software hub](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
+[查看开发进展 / Progress](https://github.com/dex-ovo-studio/Tune/blob/main/STATUS.md) · [所有软件 / Software hub](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
 ## 产品方向 / Direction
 
@@ -23,10 +23,10 @@ Interface and workflow prototypes exist, and portable execution has been demonst
 
 ## 可用性 / Availability
 
-**暂无公开安装包，发行日期未定。** 状态以[开发记录](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md)为准。  
-No public installer or announced release date. See the [progress record](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md).
+**暂无公开安装包，发行日期未定。** 状态以[开发记录](https://github.com/dex-ovo-studio/Tune/blob/main/STATUS.md)为准。  
+No public installer or announced release date. See the [progress record](https://github.com/dex-ovo-studio/Tune/blob/main/STATUS.md).
 
-[问题与建议 / Feedback](https://github.com/dex-ovo-studio/DEX-TUNE/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
+[问题与建议 / Feedback](https://github.com/dex-ovo-studio/Tune/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
 
 
 
