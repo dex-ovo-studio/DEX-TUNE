@@ -1,4 +1,4 @@
-<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status-board.svg" alt="Tune · 0.8 · 开发中 / In development" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-TUNE"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status-back.svg" alt="返回项目 / Back to overview" width="50%"></a><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-TUNE/main/assets/ui/status-hub.svg" alt="所有软件 / All software" width="50%"></a></p>
+<p><img align="top" src="./assets/ui/status-board.svg" alt="Tune · 0.8 · 开发中 / In development" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-TUNE"><img align="top" src="./assets/ui/status-back.svg" alt="返回项目 / Back to overview" width="50%"></a><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="./assets/ui/status-hub.svg" alt="所有软件 / All software" width="50%"></a></p>
 
 <details>
 <summary>文字版状态 / Accessible status</summary>
