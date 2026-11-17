@@ -19,7 +19,7 @@ Tune 探索可随 U 盘携带的 Windows 调试工作台，集中呈现设备信
 Tune explores a portable Windows workspace for hardware information and tuning.
 
 目前已有界面与流程原型、便携运行的开发验证。AI 服务尚未上线，自动电压与频率控制及第三方引擎集成尚未完成。  
-Interface and workflow prototypes exist, and portable execution has been demonstrated during development. AI services and several tuning features are not yet complete.
+Interface and workflow prototypes exist, and portable execution has been demonstrated during development. The AI service is not live. Automatic voltage and frequency control and third-party engine integration are incomplete.
 
 ## 可用性 / Availability
 
