@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="D.E.X STUDIO · DEX-TUNE" width="960">
+  <img src="assets/header-light.svg" alt="D.E.X Studio · Tune" width="960">
 </picture>
 
 # Tune
